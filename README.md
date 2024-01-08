@@ -1,1 +1,1 @@
-# Southwest Ecoregion Precipitation Modeling Using Esri's ArcGIS Pro
+# Southwest Ecoregion Precipitation Modeling 
